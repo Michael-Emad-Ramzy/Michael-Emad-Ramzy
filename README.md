@@ -10,13 +10,16 @@
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.ibra.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 
 <be>
+
+---
+
 ### 🛠️ Technologies I Work With
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 - **Frontend**: HTML, CSS, JavaScript, React, Bootstrap
 - **Backend**: Node.js, Express, Django, Flask, FastAPI
 - **Databases**: MySQL, MongoDB, PostgreSQL
 - **Languages**: Python, JavaScript
 
+---
 
 Thank you for visiting my GitHub profile. Feel free to explore my repositories and projects. If you have any questions or collaboration opportunities, please reach out to me. Let's create amazing solutions together!
 
