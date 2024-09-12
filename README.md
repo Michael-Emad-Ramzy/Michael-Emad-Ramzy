@@ -83,3 +83,45 @@ I'm open to working on new projects and learning opportunities. Let me know if y
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Emad-Ramzy&layout=compact)](https://github.com/anuraghazra/github-readme-stats )
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Emad-Ramzy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats )-->
+
+
+
+
+# Hi there, I'm Michael Emad Ramzy 👋
+
+### 🚀 Full-Stack Developer | Passionate about New Technologies  
+I'm a Full-stack developer based in Egypt, always on the lookout to explore cutting-edge technologies and create innovative solutions. Whether it's a quick hack, a full-scale project, or volunteering my expertise, I'm driven to develop impactful software.
+
+### 🔥 What I'm Up To
+- Currently learning and enhancing my skills as a Full-stack developer.
+- Always excited to dive into new projects and expand my tech stack.
+- Open for pro bono consulting, volunteering, and thought-provoking discussions!
+
+Feel free to reach out at:  
+📧 **michaelebeid9@gmail.com**  
+I'll try to respond as soon as I can!
+
+---
+
+### 🛠️ Technologies I Work With
+- **Frontend**: HTML, CSS, JavaScript, React, Bootstrap
+- **Backend**: Node.js, Express, Django, Flask, FastAPI
+- **Databases**: MySQL, MongoDB, PostgreSQL
+- **Languages**: Python, JavaScript
+
+---
+
+### 📊 GitHub Stats
+
+![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michael-Emad-Ramzy&show_icons=true&theme=radical)
+
+---
+
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Emad-Ramzy&layout=compact&theme=radical)
+
+---
+
+Thanks for stopping by, and let's build something amazing together!
+
