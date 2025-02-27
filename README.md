@@ -3,10 +3,7 @@
 <br>
 <h1>👨🏻‍💻 &nbsp;About Me:</h1> <br>
 👋 &nbsp; I'm a Full-stack developer, based in Egypt. <br>
-🤖 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.<br>
-🌱 &nbsp; I'm on track for learning more about Full-stack.<br>
-💬 &nbsp; Feel free to contact me for pro bono consulting and volunteering, or just for some interesting discussion.<br>
-✉️ &nbsp; You can shoot me an email at <a>michaelebeid9@gmail.com</a>! I'll try to respond as soon as I can.<br>
+✉️ &nbsp; You can shoot me an email at <a>michaelebeid2001@gmail.com</a>! I'll try to respond as soon as I can.<br>
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.ibra.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 
 <be>
@@ -20,9 +17,6 @@
 - **Languages**: PHP, Python, JavaScript
 
 ---
-
-Thank you for visiting my GitHub profile. Feel free to explore my repositories and projects. If you have any questions or collaboration opportunities, please reach out to me. Let's create amazing solutions together!
-
 ### 📊 GitHub Stats
 ![Michael Emad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Emad-Ramzy&show_icons=true&theme=tokyonight)
 
