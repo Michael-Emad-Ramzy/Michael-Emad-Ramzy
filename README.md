@@ -14,10 +14,10 @@
 ---
 
 ### 🛠️ Technologies I Work With
-- **Frontend**: HTML, CSS, JavaScript, React, Bootstrap
-- **Backend**: Node.js, Express, Django, Flask, FastAPI
-- **Databases**: MySQL, MongoDB, PostgreSQL
-- **Languages**: Python, JavaScript
+- **Frontend**: HTML, CSS, Blade, JavaScript, React, Bootstrap
+- **Backend**: Laravel, Node.js, Express, Django, Flask, FastAPI
+- **Databases**: MySQL, Redis, MongoDB, PostgreSQL
+- **Languages**: PHP, Python, JavaScript
 
 ---
 
