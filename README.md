@@ -28,7 +28,7 @@ Thank you for visiting my GitHub profile. Feel free to explore my repositories a
 
 ### 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidemad10&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Emad-Ramzy&layout=compact&theme=tokyonight)
 
 
 
@@ -54,14 +54,4 @@ Thank you for visiting my GitHub profile. Feel free to explore my repositories a
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a> -->
 </p>
-
-
-## Let's Collaborate!
-
-I'm open to working on new projects and learning opportunities. Let me know if you have an idea or project you'd like to discuss.
-
----
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Emad-Ramzy&layout=compact)](https://github.com/anuraghazra/github-readme-stats )
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Emad-Ramzy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats )-->
 
